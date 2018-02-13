@@ -45,6 +45,7 @@
 
     <!--Show Text-->
     <TextView
+        android:paddingTop="250dp"
         android:id="@+id/txtShowExchange"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
